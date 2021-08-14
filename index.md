@@ -5,9 +5,14 @@ My goal is to get CISSP in 2022. I will try to track my study plan and study mat
 # Some words about my Background
 - 5 years Diploma on Electrical and Computer Engineer
 - M.Sc on Applied Mathematics
-- CEH
+- Certified Ethical Hacker
 - Lead Auditor 27001:2013
 - 10 years Telecom Engineer
 - 5 years Information Security Officer
 
 # Study Material
+## Online Courses
+
+## Books
+
+## Sites
