@@ -1,0 +1,3 @@
+# openthoughts
+
+Some notes
