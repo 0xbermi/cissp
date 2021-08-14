@@ -19,6 +19,7 @@ My goal is to get CISSP in June 2022. I will try to track my study plan and stud
 # Study Material
 ## Online Courses
 1. [CISSP Certification by Thor Pedersen](https://www.udemy.com/course/cissp-domain-1-2/)
+
 ## Books
 
 ## Sites
