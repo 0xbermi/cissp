@@ -1,4 +1,4 @@
-## Open Thoughts
+## Open Thoughts [update 14/8/2021]
 
 My goal is to get CISSP in June 2022. I will try to track my study plan and study material on this site.  
 **Starting date** 01 Sept 2021  
